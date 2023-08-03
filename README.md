@@ -37,13 +37,7 @@ But I knew that to become a full-stack developer, I needed to learn backend tech
 
 With a solid understanding of both front-end and back-end technologies, I decided to challenge myself further. I explored Java and the Spring Framework, which opened up a whole new world of possibilities. Spring Framework allowed me to build robust and scalable web applications.
 
-As my knowledge and skills grew, I began building full-stack projects using the MERN stack—combining Java for the backend and React for the frontend.
-
-I made sure to document my projects and showcase them in a portfolio. I was always eager to learn and stayed up to date with the latest web development trends and technologies.
-
-Along the way, I took on internships and freelance work, gaining real-world experience in web development. Each project was an opportunity to learn and grow, and I was determined to make my mark in the field.
-
-As time went on, my reputation as a skilled full-stack developer spread, and I started receiving job offers from leading tech companies. It was a thrilling time, and I felt incredibly proud of how far I had come.
+As my knowledge and skills grew, I began building full-stack projects using the MERN stack—combining MongoDB, NodeJS and ExpressJS for the backend and React for the frontend.
 
 And so, my coding journey reached a triumphant and fulfilling conclusion. From a software engineering student with a passion for Python and SQL to a seasoned and sought-after full-stack developer, my story inspired many others to pursue their dreams in the world of technology.
 
