@@ -27,15 +27,27 @@ I'm a full-stack developer, building my version of the digital world one step at
 
 <details>
  <summary><h3>👨‍💻Divyansh's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about the programming world - code, Unix, Linux, theory. During that time, I taught myself iOS development with a dream to build my own app. However, that dream soon got overshadowed by my desire to excel in Java, which eventually landed me a full-stack software engineering job upon graduation.
+ I was a software engineering student at Haaga-Helia University, and my dream was to become a full-stack developer.
 
-   However, throughout this journey, I had another desire I had been pursuing - YouTube content creation. Eventually, I decided to quit my software engineering job to pursue YouTube full-time, and that has been my focus ever since.
+My journey with coding started in high school, where I studied Python and SQL. I was always fascinated by technology and had a natural talent for programming. As I progressed through high school, my passion for software development grew stronger.
 
-   But there's something that has always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route of a job. Now, I've already taken the leap away from that safety net into this uncomfortable, unexplored world of being a creator. And it worked out, but it became comfortable. It's easier to create videos than to go out on a limb and build my own product.
+When I entered university, I decided to explore web development. I began with the basics of HTML, CSS, and JavaScript, and soon I was creating interactive web pages. I was hooked, and that's when I discovered the powerful React library. With React, I could bring my web pages to life with dynamic and elegant user interfaces.
 
-   I have a burning desire to get back on the horse and fulfill that younger me's dream of building my own app, my own product. And in order to do that, I'm implementing measures to streamline my YouTube content and focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measures I'm putting in place until the end of 2022.
+But I knew that to become a full-stack developer, I needed to learn backend technologies as well. So, I embraced Node.js and Express to handle server-side development. Building RESTful APIs and managing data requests became second nature to me.
 
-   Don't wait up because I'm coming.
+With a solid understanding of both front-end and back-end technologies, I decided to challenge myself further. I explored Java and the Spring Framework, which opened up a whole new world of possibilities. Spring Framework allowed me to build robust and scalable web applications.
+
+As my knowledge and skills grew, I began building full-stack projects using the MERN stack—combining Java for the backend and React for the frontend.
+
+I made sure to document my projects and showcase them in a portfolio. I was always eager to learn and stayed up to date with the latest web development trends and technologies.
+
+Along the way, I took on internships and freelance work, gaining real-world experience in web development. Each project was an opportunity to learn and grow, and I was determined to make my mark in the field.
+
+As time went on, my reputation as a skilled full-stack developer spread, and I started receiving job offers from leading tech companies. It was a thrilling time, and I felt incredibly proud of how far I had come.
+
+And so, my coding journey reached a triumphant and fulfilling conclusion. From a software engineering student with a passion for Python and SQL to a seasoned and sought-after full-stack developer, my story inspired many others to pursue their dreams in the world of technology.
+
+And I continue to code and create marvelous digital wonders in the ever-evolving world of software development.
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
