@@ -27,7 +27,7 @@ I'm a full-stack developer, building my version of the digital world one step at
 
 <details>
  <summary><h3>👨‍💻Divyansh's Coding Journey</h3></summary>
- I was a software engineering student at Haaga-Helia University, and my dream was to become a full-stack developer.
+ I am a software engineering student at Haaga-Helia University, and my dream was to become a full-stack developer.
 
 My journey with coding started in high school, where I studied Python and SQL. I was always fascinated by technology and had a natural talent for programming. As I progressed through high school, my passion for software development grew stronger.
 
